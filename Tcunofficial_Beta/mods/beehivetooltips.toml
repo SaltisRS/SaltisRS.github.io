@@ -1,0 +1,13 @@
+name = "[Forge/Fabric] BeehiveTooltips"
+filename = "beehive-tooltips-fabric-1.4.2.jar"
+side = "both"
+
+[download]
+url = ""
+hash-format = "sha1"
+hash = "49dd6a985cee6d81584cb4136155bc3a9ffd4eaa"
+
+[update]
+[update.curseforge]
+file-id = 3669574
+project-id = 376753

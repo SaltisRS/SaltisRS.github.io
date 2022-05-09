@@ -1,0 +1,13 @@
+name = "Tcunofficial Beta"
+author = "Salt (Saltis)"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "696786b9af31fc80192fce15ec95b879cf48596b19d544f28f58c5fe73feda92"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.2"
